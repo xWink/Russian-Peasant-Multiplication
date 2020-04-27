@@ -5,7 +5,7 @@
 * multiply.c
 * multiply.f95
 
-## How to Use the Programs:
+## How to Use:
 1. Compile the desired program
     * multiply.adb: `gnatmake multiply.adb`
     * multiply.c: `gcc -std=c11 -o multiply multiply.c`
