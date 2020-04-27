@@ -1,7 +1,5 @@
 -- Name: Shawn Kaplan
--- ID: 0966499
--- Email: skaplan@uoguelph.ca
---
+
 -- This program prompts the user for 2 integers and multiplies
 -- them using both interative and recursive functions following
 -- the Russian Peasant Multiplication algorithm. The runtime
